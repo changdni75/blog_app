@@ -25,7 +25,7 @@ BLOG_APP is a full-stack blogging platform that allows users to create, read, up
 ### Steps to Install and Run the Application
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/changdni75/blog_app.git
     cd blog_app
     ```
 
